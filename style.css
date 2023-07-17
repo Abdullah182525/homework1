@@ -1,0 +1,24 @@
+#MainTitle{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color : sandybrown;
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+
+.tuwaiq{
+    color: rgb(244,164,96)
+}
+
+.TuwaiqAcademy{
+    color: #f4a460
+}
+
+#UL:hover{
+    background-color: darkgray;
+}
+
+#TuwaiqIMG{
+    text-align: center;
+}
